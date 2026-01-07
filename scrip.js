@@ -1,1 +1,1 @@
-//window.alert('bem vindo a site!')
+window.alert('bem vindo a site!')
